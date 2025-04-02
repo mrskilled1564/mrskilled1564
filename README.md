@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This repository is dedicated to collecting and organizing notes for the IOE (Institute of Engineering) Bachelor of Computer Engineering (BCT) program. The aim is to provide students with well-structured study materials for various subjects.
+
 <!--
 **mrskilled1564/mrskilled1564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
